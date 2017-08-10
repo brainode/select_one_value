@@ -5,6 +5,4 @@ The app that serves as a source for this component for testing purposes can be f
 
 # Example
 
-![alt text](https://raw.githubusercontent.com/creatuluw/select_one_value/master/example.gif)
-
-<img src="https://raw.githubusercontent.com/creatuluw/select_one_value/master/example.gif" align="left" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/creatuluw/select_one_value/master/example.gif" align="center" />
