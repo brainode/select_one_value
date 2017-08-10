@@ -5,4 +5,4 @@ The app that serves as a source for this component for testing purposes can be f
 
 # Example
 
-![alt text](https://raw.githubusercontent.com/creatuluw/select_one_value/master/example.gif){:height="36px" width="36px"}
+![alt text](https://raw.githubusercontent.com/creatuluw/select_one_value/master/example.gif)
