@@ -1,0 +1,12 @@
+{
+	"type": "mashup",
+	"name": "Select one value",
+	"author": "ptw",
+	"homepage": "index.html",
+	"keywords": "qlik-sense, visualization, mashup",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}

@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+body, 
+qv-object, 
+header, 
+div.qv-object-wrapper, 
+span:not(.magnifying-glass), 
+.empty-text 
+{
+  font-family: 'Roboto', sans-serif !important;
+}
+
+body, 
+html 
+{
+  height:100%;
+}
+
+span.lui-icon, 
+span.lui-search__search-icon 
+{
+  font-family: 'LUI icons' !important;
+}
+
+div.container-fluid {
+  padding:40px;
+}
+
+div.btn-group-sm 
+{
+  border-bottom:4px solid #eee;
+  padding:10px 0;
+  margin-bottom: 10px;
+}
+
+label.btn {
+  background-color: #2EA8CD;
+  color:#fff;
+  border:0;
+  margin-right:5px;
+}
+
+label.btn.active {
+  background-color: #444;
+  color:#fff;
+  border:4px solid #65CBE9;
+}
+
+h3, 
+.qv-object-title span, 
+.qvt-visualization-title span,
+.measure-title span, 
+.qv-object-header, 
+.qv-object-title-text 
+{
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: bold;
+  font-size: 1.3em !important;
+  color: #2EA8CD !important;
+  text-decoration: none !important;
+}
+
+.qv-object-footnote, 
+.qvt-visualization-footnote 
+{
+  font-family: 'Roboto', sans-serif !important;
+  font-weight:400;
+  font-size: 1em !important;
+  color: #bbb !important;
+  text-decoration: none !important;
+}
+
+div hr 
+{
+  border-top: 4px solid #eee;
+}
